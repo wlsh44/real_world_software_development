@@ -1,3 +1,5 @@
+package ch2;
+
 import java.util.List;
 
 public interface BankStatementParser {

@@ -1,3 +1,5 @@
+package ch2;
+
 import lombok.AllArgsConstructor;
 
 import java.time.Month;
